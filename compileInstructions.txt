@@ -1,0 +1,2 @@
+ g++ -o testc20 testc20.cpp -std=c++20
+ g++ -o testc17 testc17.cpp -std=c++17
